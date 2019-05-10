@@ -1,0 +1,27 @@
+{
+    "customer_id":"klj34",
+    "first_name":"Bill",
+    "last_name":"Clinton",
+    "date_of_birth":"8/19/1946 ",
+    "user_name":"POTUS42",
+    "invoices":[
+        {
+            "invoice_id": "63524rfgdfs",
+            "date_created": "5/8/2019",
+            "date_shipped": "5/8/2019",
+            "subtotal": "34.95",
+            "tax": "1.05",
+            "total": "36.00",
+            "line items":[
+                {
+                    "item_id": "754342ds43",
+                    "name": "Grumpy Old Men DVD collection",
+                    "price": "34.95",
+                    "quantity": "1"
+                }
+            ]
+        },
+        { ...},
+        { ...}
+    ]
+}

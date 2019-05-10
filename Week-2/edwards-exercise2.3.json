@@ -1,0 +1,28 @@
+//class document
+
+{
+    "_id":"21423tre",
+    "name": "History 101",
+    "enrolls": [
+        {"enrolled_id": "0987ytgyhb"}
+    ]
+}
+
+//student
+
+{
+    "_id": "3g2dfsr",
+    "first_name":"William",
+    "last_name":"Rodefeld",
+    "mi": "L",
+    "enrolls": [
+        {"enroll_id": "0987ytgyhb"}
+    ]
+}
+
+//enroll document
+
+{
+    "_id":"0987ytgyhb",
+    "grade": "100"
+}
