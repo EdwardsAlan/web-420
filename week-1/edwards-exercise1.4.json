@@ -1,24 +1,10 @@
-// user
 
-"user":[{
-    "user": "Max",
-    "Birthday":"3/24/19"
-}]
 
-// roles
-"role":[{
-    "employee": "job role",
-    "Parent": "Father",
-    "Spouse": "Husband",
-    "Child": "Son",
-    "Colleague": "Co-worker",
-    "Friend": "Friend"
-}]
-
-// dependents
-
-"dependent":[{
-    "child":"boy",
-    "child":"girl",
-    "child":"null"
-}]
+"user":{
+    "Roles":[
+        {},
+        {}
+    ],
+    "Birthdate": {}
+    "Dependents":[]
+}
